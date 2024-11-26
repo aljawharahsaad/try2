@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		872D0C0B2CF5D5F500AE4DFB /* try2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 872D0C0A2CF5D5EE00AE4DFB /* try2.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		872D0BFD2CF5D5A500AE4DFB /* try2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = try2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		872D0C0A2CF5D5EE00AE4DFB /* try2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = try2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +50,7 @@
 		872D0BF32CF5D5A500AE4DFB = {
 			isa = PBXGroup;
 			children = (
+				872D0C0A2CF5D5EE00AE4DFB /* try2.swift */,
 				872D0BFF2CF5D5A500AE4DFB /* try2 */,
 				872D0BFE2CF5D5A500AE4DFB /* Products */,
 			);
@@ -142,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				872D0C0B2CF5D5F500AE4DFB /* try2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
